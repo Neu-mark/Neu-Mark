@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/Neu-Mark">
+    <img src="https://github.com/Neu-mark/Neu-Mark/blob/main/header.gif" alt="Neu-Mark" /></a>
+</p>
 <!--
 **Neu-mark/Neu-Mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
