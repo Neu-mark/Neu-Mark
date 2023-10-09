@@ -21,7 +21,7 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3> Programming and Markup Languages</h3>
-     
+     <p>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"></a> 
       <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
       <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
@@ -29,7 +29,7 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a> 
       <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>
-     
+     </p>
 
   <h3> Frameworks and Libraries</h3>
 
