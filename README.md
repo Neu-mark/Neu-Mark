@@ -89,7 +89,7 @@
   <a href="https://github.com/Neu-mark/github-readme-stats">
   <img alt="Neu-mark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight"/></a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <!-- <a href="https://github.com/Neu-mark/github-readme-stats">
   <img alt="Neu-mark's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark"/></a> -->
   <br/>
