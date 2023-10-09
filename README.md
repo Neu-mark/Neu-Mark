@@ -88,6 +88,7 @@
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
 
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Neu-mark">
 <img src="https://github-profile-trophy.vercel.app/?username=Neu-mark">
