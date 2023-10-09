@@ -96,7 +96,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=000000&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
 
   <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Neu-mark&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Neu-mark&theme=tokyonight&column=-1" />
 </p>
 
   <h3>Where to find me</h3>
