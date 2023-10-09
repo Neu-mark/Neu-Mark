@@ -91,7 +91,7 @@
 
 
   <a href="https://github.com/Neu-mark/github-readme-stats">
-  <img alt="Neu-mark's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&layout=donut&theme=tokyonight"/></a>
+  <img alt="Neu-mark's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark"/></a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=000000&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
 
