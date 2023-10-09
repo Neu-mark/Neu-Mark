@@ -89,7 +89,7 @@
   <a href="https://github.com/Neu-mark/github-readme-stats">
   <img alt="Neu-mark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight"/></a>
 
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&layout=donut
+
   <a href="https://github.com/Neu-mark/github-readme-stats">
   <img alt="Neu-mark's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&layout=donut&theme=tokyonight"/></a>
   <br/>
