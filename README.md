@@ -91,8 +91,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 
-  
-  <img alt="Neu-mark's Github Stats" src="https://Neu-mark-github-readme-stats.vercel.app/api/?username=Neu-mark&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=7B68EE&title_color=00CED1&icon_color=87CEFA" height="192px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Neu-mark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight""/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Neu-mark's Top Languages" src="https://Neu-mark-github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00CED1&title_color=7B68EE&icon_color=87CEFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
