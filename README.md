@@ -95,6 +95,9 @@
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=000000&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
 
+  <h3>Where to find me</h3>
+<p><a href="https://github.com/Neu-mark" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+
 
 
 
