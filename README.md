@@ -88,14 +88,13 @@
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
-
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Neu-mark">
-<img src="https://github-profile-trophy.vercel.app/?username=Neu-mark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neu-mark's Github Stats" src="https://Neu-mark-github-readme-stats.vercel.app/api/?username=Neu-mark&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=7B68EE&title_color=00CED1&icon_color=87CEFA" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neu-mark's Top Languages" src="https://Neu-mark-github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00CED1&title_color=7B68EE&icon_color=87CEFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  
+  <img alt="Neu-mark's Github Stats" src="https://Neu-mark-github-readme-stats.vercel.app/api/?username=Neu-mark&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=7B68EE&title_color=00CED1&icon_color=87CEFA" height="192px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Neu-mark's Top Languages" src="https://Neu-mark-github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00CED1&title_color=7B68EE&icon_color=87CEFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=000000&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
 
