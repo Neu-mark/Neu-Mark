@@ -69,8 +69,8 @@
       <a href="#"><img alt="GoogleChrome" src="https://img.shields.io/badge/Google%20Chrome-74aa9c?style=Flat&logo=GoogleChrome&logoColor=white"></a>
       <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=Flat&logo=Canva&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white"></a>
-      <a href="#"><img alt="GULP" src=" https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white"></a>
-     <a href="#"><img alt="Windows" src="  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="GULP" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white"></a>
+     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
       
   
   </p>
