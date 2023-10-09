@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Neu-mark&color=8b00ff&style=for-the-badge">
 </p>
 
-<details> 
+
  <h2> My Favorite Languages and Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -45,7 +45,7 @@
       
   </p>
 
-  <h3>🗄 Databases and Cloud Hosting</h3>
+  <h3> Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -69,7 +69,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+
 
 
 
