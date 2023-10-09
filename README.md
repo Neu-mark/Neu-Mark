@@ -71,9 +71,26 @@
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white"></a>
       <a href="#"><img alt="GULP" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white"></a>
      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
-      
-  
   </p>
+
+  <h2>Github Stats and Activity</h2>
+
+  <h3>Streak Stats</h3> 
+  <p>
+    <a href="https://github.com/Neu-mark/github-readme-streak-stats">
+      <img alt="Neu-mark's streak" src="https://streak-stats.demolab.com/?user=Neu-mark&theme=tokyonight&hide_border=true"/>
+    </a>
+  </p>
+
+   <h3> GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neu-mark's Github Stats" src="https://Neu-mark-github-readme-stats.vercel.app/api/?username=Neu-mark&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=7B68EE&title_color=00CED1&icon_color=87CEFA" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neu-mark's Top Languages" src="https://Neu-mark-github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00CED1&title_color=7B68EE&icon_color=87CEFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=00CED1&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
