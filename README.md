@@ -21,8 +21,15 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3> Programming and Markup Languages</h3>
-
- 
+     
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"></a> 
+      <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a> 
+      <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>
+     
 
   <h3> Frameworks and Libraries</h3>
 
@@ -58,8 +65,14 @@
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=Flat&logo=Microsoft-edge&logoColor=white)"></a>
-   
+      <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Edge-4285F4?style=Flat&logo=Microsoft-edge&logoColor=white"></a>
+      <a href="#"><img alt="GoogleChrome" src="https://img.shields.io/badge/Google%20Chrome-74aa9c?style=Flat&logo=GoogleChrome&logoColor=white"></a>
+      <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=Flat&logo=Canva&logoColor=white"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white"></a>
+      <a href="#"><img alt="GULP" src=" https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white"></a>
+     <a href="#"><img alt="Windows" src="  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      
+  
   </p>
 
 
