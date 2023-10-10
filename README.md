@@ -82,7 +82,7 @@
       <img alt="Neu-mark's Github Stats" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000"/>
     </td>
     <td>
-      <img alt="Neu-mark's Top Languages" height="100px" align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
+      <img alt="Neu-mark's Top Languages" height="100px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
@@ -92,24 +92,20 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/Neu-mark/github-readme-stats">
-  <img alt="Neu-mark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight"/></a>
+  <img alt="Neu-mark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neu-mark&show_icons=true&theme=tokyonight"/></a
 
-
-  <!-- <a href="https://github.com/Neu-mark/github-readme-stats">
-  <img alt="Neu-mark's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark"/></a> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  -->
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Neu-mark's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Neu-mark&bg_color=000000&color=7B68EE&line=87CEFA&point=FFFFFF&hide_border=true" /></a>
 
   <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Neu-mark&theme=tokyonight&column=-1" />
 </p>
+
  <!--
 ![codewars](https://www.codewars.com/users/Mark%20Neumann/badges/large)
   -->
+  
   <h3>Where to find me</h3>
 <p align=" left">
   <a href="https://github.com/Neu-mark" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
