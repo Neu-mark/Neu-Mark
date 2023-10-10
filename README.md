@@ -75,6 +75,20 @@
 
   <h2>Github Stats and Activity</h2>
 
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+  
+
   <h3>Streak Stats</h3> 
   <p>
     <a href="https://github.com/Neu-mark/github-readme-streak-stats">
