@@ -79,10 +79,10 @@
  <table>
   <tr>
     <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000" alt="Neu-mark's Github Stats" />
+      <img alt="Neu-mark's Github Stats" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000"/>
     </td>
     <td>
-      <img height="100px" align="center" alt="Neu-mark's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
+      <img alt="Neu-mark's Top Languages" height="100px" align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
