@@ -75,26 +75,17 @@
 
   <h2>Github Stats and Activity</h2>
 
-
-<table>
+  <h3>Streak Stats</h3> 
+ <table>
   <tr>
     <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000" alt="webDev's Github stats" />
+      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Neu-mark&theme=tokyonight&background=000000" alt="Neu-mark's Github Stats" />
     </td>
     <td>
-      <img height="100px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
+      <img height="100px" align="center" alt="Neu-mark's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neu-mark&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
-
-  
-
-  <h3>Streak Stats</h3> 
-  <p>
-    <a href="https://github.com/Neu-mark/github-readme-streak-stats">
-      <img alt="Neu-mark's streak" src="https://streak-stats.demolab.com/?user=Neu-mark&theme=tokyonight&hide_border=true"/>
-    </a>
-  </p>
 
    <h3> GitHub Profile Stats</h3>
 
