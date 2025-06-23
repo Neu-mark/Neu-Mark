@@ -26,18 +26,19 @@
       <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
       <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
-      <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a> 
-      <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>-->
+      <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>
      </p>
 
   <h3> Frameworks and Libraries</h3>
-
-   <!--<p>
+ <p>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <!--
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+     
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->
       
   </p>
