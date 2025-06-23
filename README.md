@@ -29,11 +29,22 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
       <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a> 
       <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"></a>
+       <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=white"></a>
      </p>
 
   <h3> Frameworks and Libraries</h3>
  <p>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
+   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></a>
+   <a href="#"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-000000?style=flat&logo=framer&logoColor=white"></a>
+<a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"></a>
+<a href="#"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white"></a>
+   <a href="#"><img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux--Toolkit-593D88.svg?logo=redux&logoColor=white"></a>
+  <a href="#"><img alt="RTK Query" src="https://img.shields.io/badge/RTK%20Query-593D88.svg?logo=redux&logoColor=white"></a>
+  <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&logoColor=white"></a>
+   <a href="#"><img alt="Zod" src="https://img.shields.io/badge/Zod-3E77AA.svg?style=flat&logo=data&logoColor=white"></a>
+
    <!--
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -46,6 +57,10 @@
   <h3> Databases and Cloud Hosting</h3>
 
   <p>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28.svg?logo=firebase&logoColor=black"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
      <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> 
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -57,9 +72,9 @@
   <h3> Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> 
-       <!--<a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>-->
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"></a>
+    <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"></a>
+    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <!--<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
@@ -72,7 +87,17 @@
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white"></a>
       <a href="#"><img alt="GULP" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white"></a>
      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> 
+       <!--<a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>-->
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
+<h3> Package Managers and Runtimes </h3>
+<p>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=flat&logo=yarn&logoColor=white"></a>
+  <a href="#"><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=flat&logo=pnpm&logoColor=white"></a>
+  <a href="#"><img alt="Bun" src="https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=bun&logoColor=white"></a>
+</p>
 
   <h2>Github Stats and Activity</h2>
 
