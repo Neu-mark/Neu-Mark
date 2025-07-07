@@ -8,13 +8,33 @@
 <!-- Badges with custom icons - https://github.com/Neu-Mark/custom-icon-badges -->
 <!-- View counter - https://github.com/Neu-Mark/Simple-View-Counter -->
 <p align="center">
+  <!-- Total Stars (на главном репозитории) -->
   <a href="https://github.com/Neu-Mark?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Neu-Mark?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img 
+      alt="total stars" 
+      title="Total stars on GitHub" 
+      src="https://img.shields.io/github/stars/Neu-Mark?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&label=Total%20Stars"
+    />
+  </a>
+
+  <!-- Followers -->
   <a href="https://github.com/Neu-Mark?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Neu-Mark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img 
+      alt="followers" 
+      title="Follow me on GitHub" 
+      src="https://img.shields.io/github/followers/Neu-Mark?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    />
+  </a>
+
+  <!-- Views -->
   <a href="https://github.com/Neu-Mark/Simple-View-Counter">
-    <img src="https://komarev.com/ghpvc/?username=Neu-mark&color=8b00ff&style=for-the-badge">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Neu-Mark&color=8b00ff&style=for-the-badge" 
+      alt="Profile views"
+    />
+  </a>
 </p>
+
 
 
 <h2>My Favorite Languages and Tools</h2>
